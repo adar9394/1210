@@ -79,5 +79,7 @@ def play1DVari():
 	print("Player " + str(player)+ " wins")
 if (select == "C"):
 	play1DVari()
+
+	#test
 elif (select == "N"):
 	play1DSet()
